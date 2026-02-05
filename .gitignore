@@ -19,3 +19,9 @@ out/
 .DS_Store
 .vscode/
 .idea/
+
+#Database
+storage/
+
+#Data
+data/
